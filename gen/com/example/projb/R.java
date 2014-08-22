@@ -1192,7 +1192,7 @@ containing a value of this type.
         public static int abc_search_dropdown_item_icons_2line=0x7f030015;
         public static int abc_search_view=0x7f030016;
         public static int abc_simple_decor=0x7f030017;
-        public static int activity_main=0x7f030018;
+        public static int activity_b_layout=0x7f030018;
         public static int support_simple_spinner_dropdown_item=0x7f030019;
     }
     public static final class menu {
@@ -2620,7 +2620,7 @@ containing a value of this type.
          */
         public static final int[] MenuView = {
             0x010100ae, 0x0101012c, 0x0101012d, 0x0101012e,
-            0x0101012f, 0x01010130, 0x01010131, 0x01010438
+            0x0101012f, 0x01010130, 0x01010131, 0x01010435
         };
         /**
           <p>
